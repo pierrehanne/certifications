@@ -1,1 +1,5 @@
-# certifications
+# Certifications
+
+| Editor    | Name                  | Link                                  |
+|-----------|-----------------------|---------------------------------------|
+| Microsoft | Azure AI Fundamentals |[Notes](microsoft/01-AI900/00-INTRO.md)|
