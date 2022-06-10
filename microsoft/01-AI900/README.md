@@ -21,11 +21,11 @@ Azure Data Scientist Associate or Azure AI Engineer Associate, but it is not a p
 
 ### Sections covered :grey_question:
 
-1. Describe Artificial Intelligence workloads and considerations : [here](01-AI.md)
-2. Describe fundamental principles of machine learning on Azure : [here](02-ML.md)
-3. Describe features of computer vision workloads on Azure : [here](03-CV.md)
-4. Describe features of Natural Language Processing (NLP) workloads on Azure : [here](04-NLP.md)
-5. Describe features of conversational AI workloads on Azure : [here](05-CONVERSATIONAL.md)
+1. Describe Artificial Intelligence workloads and considerations : [here](Notes/01-AI.md)
+2. Describe fundamental principles of machine learning on Azure : [here](Notes/02-ML.md)
+3. Describe features of computer vision workloads on Azure : [here](Notes/03-CV.md)
+4. Describe features of Natural Language Processing (NLP) workloads on Azure : [here](Notes/04-NLP.md)
+5. Describe features of conversational AI workloads on Azure : [here](Notes/05-CONVERSATIONAL.md)
 
 ### Exam :grey_question:
 
@@ -40,4 +40,4 @@ Azure Data Scientist Associate or Azure AI Engineer Associate, but it is not a p
     - Dropdown to complete sentence
 - Official link : [Microsoft Certified: Azure AI Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/?tab=tab-learning-paths)
 
-[Click here to start](01-AI.md)
+[Click here to start](Notes/01-AI.md)
