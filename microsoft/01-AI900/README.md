@@ -29,9 +29,9 @@ Azure Data Scientist Associate or Azure AI Engineer Associate, but it is not a p
 
 ### Exam :grey_question:
 
-- Pricing : 99:moneybag:
+- Pricing : 99€
 - Duration : 60 minutes
-- Number of questions : 51
+- Number of questions : [40 - 60]
 - Type of questions :
     - Single choice
     - Multiple choice
