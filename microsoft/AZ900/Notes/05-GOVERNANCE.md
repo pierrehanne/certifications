@@ -6,11 +6,9 @@
 
 ### 1. Describe core Azure identity services 
 
-Azure Multi-Factor Authentication provides additional security for your identities by requiring two or more elements for full authentication. 
-
-Azure Active Directory (AAD) is Microsoft Azure’s cloud-based identity and access management service.
-
-Conditional Access is used by Azure Active Directory to bring signals together, to make decisions, and enforce organizational policies.
+- Azure Multi-Factor Authentication provides additional security for your identities by requiring two or more elements for full authentication. 
+- Azure Active Directory (AAD) is Microsoft Azure’s cloud-based identity and access management service.
+- Conditional Access is used by Azure Active Directory to bring signals together, to make decisions, and enforce organizational policies.
 
 ### 2. Describe Azure governance features
 

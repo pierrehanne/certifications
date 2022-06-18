@@ -15,7 +15,6 @@ Azure resources are components like storage, virtual machines, and networks that
 - Functions
 
 We have also resource groups which is a container to manage and aggregate resources in a single unit.
-
 The Azure Resource Manager (ARM) provides a management layer that enables you to create, update, and delete resources in your Azure subscription.
 
 ### 2. Describe core resources available in Azure
@@ -40,6 +39,5 @@ The Azure Resource Manager (ARM) provides a management layer that enables you to
 | Azure Database for PostgreSQL   | Relational database service based on the open-source Postgres database engine                                                                                       |
 | SQL Managed Instance            | Allows existing SQL Server customers to lift and shift their on-premises applications to the cloud with minimal application and database changes                    |
 | Azure Marketplace               | Allows customers to find, try, purchase, and provision applications and services from hunders of leading service providers, which are all certified to run on Azure |
-
 
 [Next](03-TOOLS.md)
