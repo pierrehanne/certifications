@@ -4,7 +4,7 @@
 
 ## Microsoft Azure AI Fundamentals
 
-*This project present some notes on the AI-900 Certification provide by Microsoft Azure* :computer::cloud:
+*This project present some notes on the AI-900 Certification* :computer::cloud:
 
 ### Audience Profile :grey_question:
 
