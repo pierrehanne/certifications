@@ -9,6 +9,7 @@
 ### Audience Profile :grey_question:
 
 This exam is intended for candidates beginning to work with data in the cloud.
+Candidates should be familiar with the concepts of relational and non-relational data, and different types of data workloads such as transactional or analytical.
 
 ### Purpose :grey_question:
 
