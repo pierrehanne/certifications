@@ -61,3 +61,5 @@ Service Level Agreements (SLAs) describes Microsoft’s commitments for uptime a
 
 - **Public Preview:** All Azure customers can evaluate the new features
 - **Generally available (GA):** After public preview is completed, all customers can use the feature, and region availability will vary
+
+[Previous](05-GOVERNANCE.md)

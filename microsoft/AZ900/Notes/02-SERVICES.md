@@ -40,4 +40,4 @@ The Azure Resource Manager (ARM) provides a management layer that enables you to
 | SQL Managed Instance            | Allows existing SQL Server customers to lift and shift their on-premises applications to the cloud with minimal application and database changes                    |
 | Azure Marketplace               | Allows customers to find, try, purchase, and provision applications and services from hunders of leading service providers, which are all certified to run on Azure |
 
-[Next](03-TOOLS.md)
+[Previous](01-CLOUD.md) **|** [Next](03-TOOLS.md)

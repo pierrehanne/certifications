@@ -50,4 +50,4 @@ handles the user data collected from its products and services.
 
 Microsoft offers a comprehensive set of compliance offerings to help your organization comply with national, regional, and industry-specific requirements that govern the collection and use of data
 
-[Next](06-COST.md)
+[Previous](04-SECURITY.md) **|** [Next](06-COST.md)

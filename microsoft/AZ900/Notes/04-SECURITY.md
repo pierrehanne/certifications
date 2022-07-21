@@ -43,4 +43,4 @@ Combining network security solutions
 - Perimeter layer protects your network boundaries with Azure DDoS Protection and Azure Firewall.
 - Networking layer only permits traffic to pass between networked resources with Network Security Group (NSG) inbound and outbound rules
 
-[Next](05-GOVERNANCE.md)
+[Previous](03-TOOLS.md) **|** [Next](05-GOVERNANCE.md)
